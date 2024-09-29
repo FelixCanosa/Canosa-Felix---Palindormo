@@ -1,6 +1,5 @@
 
-[![dt3vb29.md.png](https://iili.io/dt3vb29.md.png)](https://freeimage.host/i/dt3vb29)
-
+[![Visitar Proyecto](https://img.shields.io/badge/Visitar_Proyecto-AQUÍ-00bfae?style=for-the-badge)](https://palindormo-felix-campsa.netlify.app/)
 # Validador de Palíndromos
 
 El **Validador de Palíndromos** es un proyecto diseñado para verificar si una cadena de texto es un palíndromo. Un palíndromo es una secuencia de caracteres que se lee igual cuando se le da la vuelta.
